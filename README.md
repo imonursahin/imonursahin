@@ -1,6 +1,5 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> I am Onur SAHIN. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I am Onur SAHIN. I love to explore and learn about new things.
 ## ⚡ Technologies
 Talk to me about:<br>
 	- Programming: **Python, Flutter, Dart**<br>
