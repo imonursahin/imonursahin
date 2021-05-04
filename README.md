@@ -2,13 +2,13 @@
 
 I am Onur SAHIN. I love to explore and learn about new things.
 ## ⚡ Technologies
-Talk to me about:
-	- Programming: Python, Flutter, Dart
-	- Web Development: HTML, CSS, JS,
-	- Tools: VSCode, Anaconda Navigator
-	- Database: MYSQL
-	- Source Control: Git
-	- Collaboration: GitHub
+Talk to me about:<br>
+	- Programming: Python, Flutter, Dart<br>
+	- Web Development: HTML, CSS, JS,<br>
+	- Tools: VSCode, Anaconda Navigator<br>
+	- Database: MYSQL<br>
+	- Source Control: Git<br>
+	- Collaboration: GitHub<br>
 ## Hello World!! 
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Onur SAHIN](https://onursahin.net)
