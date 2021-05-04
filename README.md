@@ -1,4 +1,4 @@
-<h2> Hello World!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ##  I am Onur SAHIN.
 - 💬 Ask me about anything an everything.
