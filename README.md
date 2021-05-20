@@ -2,7 +2,7 @@
 
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Onur SAHIN](https://onursahin.net)
-- 🔔 Make Connection:- [LinkedIn](https://www.linkedin.com/in/imonursahin)
+- 🔔 Make Connection: [LinkedIn](https://www.linkedin.com/in/imonursahin)
 
 
 
