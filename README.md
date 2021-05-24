@@ -1,4 +1,4 @@
-<h2> Hi there!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br><br>I am Onur SAHIN. </h2>
+<h2>Hi there, I'm Onur SAHIN<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Onur SAHIN](https://onursahin.net)
